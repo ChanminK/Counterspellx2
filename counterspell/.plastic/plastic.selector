@@ -1,0 +1,4 @@
+repository "counterspell/counterspell@2475709580393@cloud"
+  path "/"
+    br "/main"
+    co "/main"
