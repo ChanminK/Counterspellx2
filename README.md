@@ -1,2 +1,2 @@
-# Counterspellx2
-official repo for countersepll
+# no
+dont do it
